@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/01-CircuitBreaker/">
+    <Project Path="01-CircuitBreaker/CircuitBreakerPattern.csproj" Id="471a9bd6-2655-4be5-b942-04b6243a4944" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitattributes" />
     <File Path=".gitignore" />
